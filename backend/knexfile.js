@@ -10,11 +10,7 @@ module.exports = {
     migrations: {
       directory: './src/database/migrations'
     },
-<<<<<<< HEAD
-	useNullAsDefault: true,
-=======
-    useNullAsDefault: true,
->>>>>>> 66703f7cf42ce090ed89e7ef86aa770b3a33d8da
+	  useNullAsDefault: true,
   },
   
 
