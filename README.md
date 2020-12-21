@@ -64,7 +64,7 @@ Será necessário instalar o Expo na máquina através do comando `npm install -
 
 - Feito os passos anteriores, seu PowerShell estará habilitado para executar comandos Expo.
 
-Navegue até a pasta movile pelo terminal e execute o comando npm install para instalar todas as dependências. Será necessário instalar também o Yarn através do comando `npm install -g yarn`. Em seguida rode o comando yarn start. Será aberta uma página no navegador e no canto inferior direito aparecerá um querry code que mais tarde será escaneado pelo celular.
+Navegue até a pasta movile pelo terminal e execute o comando `npm install` para instalar todas as dependências. Será necessário instalar também o Yarn através do comando `npm install -g yarn`. Em seguida rode o comando yarn start. Será aberta uma página no navegador e no canto inferior direito aparecerá um querry code que mais tarde será escaneado pelo celular.
 
 Será necessário baixar e instalar o aplicativo Expo no celular:
 
